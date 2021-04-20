@@ -93,7 +93,6 @@ input {
 }
 
 #darkMode {
-  background: url(".images/moon.png");
   background-size: 30px 30px;
   width: 45px;
   height: 45px;
@@ -101,7 +100,6 @@ input {
   border: none;
   border-radius: 50%;
   transition: background-color 0.3s ease-in-out, filter 0.3s ease-in-out;
-  
 }
 
 #DarkMode:hover,
